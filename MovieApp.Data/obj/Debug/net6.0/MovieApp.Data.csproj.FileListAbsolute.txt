@@ -1,0 +1,14 @@
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.deps.json
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.runtimeconfig.json
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.dll
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.pdb
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.csproj.AssemblyReference.cache
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.AssemblyInfoInputs.cache
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.AssemblyInfo.cs
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.csproj.CoreCompileInputs.cache
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.dll
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\refint\MovieApp.Data.dll
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.pdb
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.genruntimeconfig.cache
+D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\ref\MovieApp.Data.dll
