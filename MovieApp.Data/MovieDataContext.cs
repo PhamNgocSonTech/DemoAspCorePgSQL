@@ -4,8 +4,7 @@ namespace MovieApp.Data
 {
     public class MovieDataContext : DbContext
     {
-        public MovieDataContext(DbContextOptions<MovieDataContext> options) :
-            base(options)
+        public MovieDataContext(DbContextOptions<MovieDataContext> options) : base(options)
         {
         }
 

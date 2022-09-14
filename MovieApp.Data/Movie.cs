@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MovieApp.Data
 {
+    [Table("Movie")]
     public class Movie
     {
         public int Id { get; set; }
@@ -16,11 +17,5 @@ namespace MovieApp.Data
 
         public List<Actor> Actors { get; set; }
     }
-
-    public class Actor
-    {
-        public int Id { get; set; }
-        [Required]
-        public string Fullname { get; set; }
-    }
+  
 }

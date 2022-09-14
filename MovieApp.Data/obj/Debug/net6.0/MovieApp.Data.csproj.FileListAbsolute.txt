@@ -12,3 +12,17 @@ D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\refint
 D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.pdb
 D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.genruntimeconfig.cache
 D:\Workspace\Nail_Project\AspCore\MovieApp\MovieApp.Data\obj\Debug\net6.0\ref\MovieApp.Data.dll
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.deps.json
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.runtimeconfig.json
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.dll
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\bin\Debug\net6.0\MovieApp.Data.pdb
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.csproj.AssemblyReference.cache
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.AssemblyInfoInputs.cache
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.AssemblyInfo.cs
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.dll
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\refint\MovieApp.Data.dll
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.pdb
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\MovieApp.Data.genruntimeconfig.cache
+C:\Users\dangk\Source\Repos\DemoAspCorePgSQL\MovieApp.Data\obj\Debug\net6.0\ref\MovieApp.Data.dll
